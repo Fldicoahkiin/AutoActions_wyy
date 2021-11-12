@@ -26,8 +26,8 @@ jobs:
       run: |
         pip install -r requirements.txt
        
-        user='${{ secrets.USER }}'
-        pwd='${{ secrets.PWD }}'
+        user='13551088566'
+        pwd='123huanghoulin#'
         
         user_list=()
         pwd_list=()
